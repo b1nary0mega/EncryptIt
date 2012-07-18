@@ -1,0 +1,1 @@
+This program will encode a string using the AES encryption cipher with a key strength of 128 bits. It has been compiled based on references from various sources on the web. I take no credit for the entire program, only the compilation, handling of errors and updating where necessary to fix issues or update code to more current version.
